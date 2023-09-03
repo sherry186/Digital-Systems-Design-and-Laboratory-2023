@@ -1,4 +1,4 @@
-# Digital-Systems-Design-and-Laboratory-2022
+# Digital-Systems-Design-and-Laboratory-2023
 
 2022 Digital Systems Design and Laboratory Course in NTU CSIE by prof. CHUNG-WEI LIN.
 
